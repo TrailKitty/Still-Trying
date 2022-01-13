@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0C9e4A926987a7B375F3EDB0fa5eAA00EA596Dcf",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x0c9e4a926987a7b375f3edb0fa5eaa00ea596dcf",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Trial2",
+  "SYMBOL": "TR2",
+  "MAX_SUPPLY": 2596,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 120000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/trial2",
+  "SHOW_BACKGROUND": true
+}
